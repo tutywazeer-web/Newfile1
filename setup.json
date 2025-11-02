@@ -1,25 +1,26 @@
 [
     {
-        "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "session": "newfile",
+        "token": "7884163423:AAGK4CoEwZ271CLjyEtnwKu2xzqEpgjbyuw",
+        "api_id": "27642526",
+        "api_hash": "8bc14441805c29b64843165c1d73ce31",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
-        "auto_del": 0,
+        "db_uri": "mongodb+srv://Newdb:12345@cluster0.vv4rgug.mongodb.net/?appName=Cluster0",
+        "db_name": "Newdb",
+        "fsubs": [[-1003205326198, true, 5]],
+        "db": -1002878584997,
+        "auto_del": 600,
         "messages": {
-            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
-            "FSUB": "",
+            "START": "<blockquote>Hi I'm Advanced File Store Bot With More New Features</blockquote>",
+            "FSUB": "-1003205326198",
             "ABOUT": "ABOUT MSG",
-            "REPLY": "reply_text",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
+            "REPLY": "Do Not Send Any Useless Messages In The Bot.",
+            "START_PHOTO": "https://images8.alphacoders.com/910/thumb-350-910288.webp",
+            "FSUB_PHOTO": "https://images6.alphacoders.com/114/thumb-350-1143245.webp"
         },
-        "admins": [78324663, 73468932],
+        "admins": [0],
         "disable_btn": true,
         "protect": false
     }
+
 ]
