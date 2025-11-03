@@ -5,8 +5,8 @@
         "api_id": "27642526",
         "api_hash": "8bc14441805c29b64843165c1d73ce31",
         "workers": 8,
-        "db_uri": "mongodb+srv://Newdb:12345@cluster0.vv4rgug.mongodb.net/?appName=Cluster0",
-        "db_name": "Newdb",
+        "db_uri": "mongodb+srv://rihanbhai:12345@cluster0.mpvjyab.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "rihanbhai",
         "fsubs": [[-1003205326198, true, 5]],
         "db": -1002878584997,
         "auto_del": 600,
@@ -24,3 +24,4 @@
     }
 
 ]
+
